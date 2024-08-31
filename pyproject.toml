@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "h8cli"
-description = "Core components of The Python Hexagonal (h8) Framework"
+description = "A cli for h8 projects"
 dynamic = ["version"]
 readme = "README.md"
 requires-python = ">=3.12"
